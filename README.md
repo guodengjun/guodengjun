@@ -2,7 +2,7 @@
 - 👀 I’m interested in neurology
 - 🌱 I’m currently learning neuroscience
 - 💞️ I’m looking to collaborate on neurologist
-- 📫 How to reach me ...send me email to guodengjun@163.com
+- 📫 How to reach me ...send me email to guodengjun1@163.com
 
 <!---
 guodengjun/guodengjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
